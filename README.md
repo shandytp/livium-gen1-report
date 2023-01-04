@@ -6,4 +6,14 @@
 - Apa fungsi dari hasil analisa ini? Untuk membantu teman - teman Chapter: 01 untuk mengambil keputusan di next stream atau konten lain selanjutnya
 - Apakah saya dibayar? nggk, this is 100% free. Yang ada malah aku belajar banyak dan dapet pengalaman yang menarik karena ini pertama kali ngolah dan gather data yang seperti ini
 
+#### ToDo List:
+- [x] Buat script python `helper.py` untuk panggil function bikin plot dan transform data (04 January 2023) 
+- Bikin notebook untuk:
+  - [x] Indira (04 January 2023)
+  - [x] Imel (04 January 2023)
+  - [ ] Dina
+  - [ ] Yuura
+  - [ ] Silvia
+- [ ] Bikin report
+
 by: Tepe
