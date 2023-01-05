@@ -11,9 +11,9 @@
 - Bikin notebook untuk:
   - [x] Indira (04 January 2023)
   - [x] Imel (04 January 2023)
-  - [ ] Dina
-  - [ ] Yuura
-  - [ ] Silvia
-- [ ] Bikin report
+  - [x] Dina (05 January 2023)
+  - [x] Yuura (05 January 2023)
+  - [x] Silvia (05 January 2023)
+- [ ] Bikin report (bismillah bisa kelar 06 January 2023 wkwkwk)
 
 by: Tepe
