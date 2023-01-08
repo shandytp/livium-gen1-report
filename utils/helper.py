@@ -103,7 +103,6 @@ def plot_avg_duration_stream_days(data, var_name, username):
     ax.bar_label(ax.containers[0])
     plt.xlabel("Days")
     plt.ylabel("Average Live Stream Duration")
-    plt.xticks(fontsize=14)
     plt.title(f"{username} Livestream Durations Average (in hours) by Days in 3 Months")
     plt.show()
     
