@@ -14,6 +14,11 @@
   - [x] Dina (05 January 2023)
   - [x] Yuura (05 January 2023)
   - [x] Silvia (05 January 2023)
-- [ ] Bikin report (bismillah bisa kelar 06 January 2023 wkwkwk)
+- [x] Bikin report (08 January 2023)
+  - [Indira](https://bit.ly/Indira-3-Month-Milestone-Report)
+  - [Dina](https://bit.ly/Dina-3-Month-Milestone-Report)
+  - [Imel](https://bit.ly/Imel-3-Month-Milestone-Report)
+  - [Yuura](https://bit.ly/Yuura-3-Month-Milestone-Report)
+  - [Silvia](https://bit.ly/Silvia-3-Month-Milestone-Report)
 
 by: Tepe
